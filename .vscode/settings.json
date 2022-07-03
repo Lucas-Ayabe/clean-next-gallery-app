@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "node_modules": true,
+    ".next": true,
+    ".swc": true,
+    "public": true,
+    ".eslintrc.json": true,
+    ".gitignore": true,
+    "next-env.d.ts": true,
+    "next.config.js": true,
+    "README.md": true,
+    "yarn.lock": true
+  }
+}
